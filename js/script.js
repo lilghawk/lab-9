@@ -5,7 +5,7 @@ function init() {
 
     button.addEventListener("click", function () {
         const userText = input.value;
-        const yourName = "Sarah Alharbi"; // Replace with your name
+        const yourName = "Lama Alqarni"; 
 
         alert(`${yourName}: ${userText}`);
         output.textContent = userText;
